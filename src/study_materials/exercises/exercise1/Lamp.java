@@ -1,4 +1,4 @@
-package study_materials.lessons.poo.exercise1.lamp;
+package study_materials.exercises.exercise1;
 
 public class Lamp {
   private String model;
