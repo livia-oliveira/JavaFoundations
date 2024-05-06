@@ -1,6 +1,8 @@
-package study_materials.lessons.data_structure.class1;
+package study_materials.lessons.data_structure.lists.class1;
 
-public class TestVector {
+import study_materials.lessons.data_structure.lists.Vector;
+
+public class TestList {
   public static void main(String[] args) {
     Vector vector = new Vector(2);
 
